@@ -1,5 +1,5 @@
 # Reservoir-Dogs
 A Dog clasifier
 
-#DataSet
+# DataSet
 http://vision.stanford.edu/aditya86/ImageNetDogs/
